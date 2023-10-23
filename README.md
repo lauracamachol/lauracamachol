@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lauracamachol
-- 👀 I’m interested in a Data Analyst!
+- 👀 I’m a Data Analyst!
 - 📫 You can reach me in Linkedin: https://www.linkedin.com/in/lauracamachol/
 
 <!---
